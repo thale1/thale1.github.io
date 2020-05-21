@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tomhale.me</title>
-    <link>https://www.tomhale.me/</link>
+    <link>https://thale1.github.io/</link>
     <description>Recent content on tomhale.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 17 May 2020 11:06:29 -0400</lastBuildDate>
     
-	<atom:link href="https://www.tomhale.me/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://thale1.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://www.tomhale.me/about/</link>
+      <link>https://thale1.github.io/about/</link>
       <pubDate>Sun, 17 May 2020 11:06:29 -0400</pubDate>
       
-      <guid>https://www.tomhale.me/about/</guid>
+      <guid>https://thale1.github.io/about/</guid>
       <description>Hi! My name is Tom Hale. Right now I&amp;rsquo;m working as a software engineer at Cognex Corporation outside of Boston, helping build the next generation of industrial barcode readers (yes, that is an industry, and a remarkably profitable one).
 I&amp;rsquo;ve wanted to be an engineer ever since I was five, when I realized that &amp;ldquo;professional cowboy&amp;rdquo; wasn&amp;rsquo;t in the cards. In all those years, I never really asked why. There was no real reason to; why wouldn&amp;rsquo;t you want to be an engineer?</description>
     </item>
     
     <item>
       <title>Hello world!</title>
-      <link>https://www.tomhale.me/posts/my-first-post/</link>
+      <link>https://thale1.github.io/posts/my-first-post/</link>
       <pubDate>Sun, 17 May 2020 10:11:12 -0400</pubDate>
       
-      <guid>https://www.tomhale.me/posts/my-first-post/</guid>
+      <guid>https://thale1.github.io/posts/my-first-post/</guid>
       <description>Hi! I&amp;rsquo;m starting a blog! See my About page for more about me.
 This started as a side project after I foolishly bought the tomhale.me domain name.
 Sadly, I didn&amp;rsquo;t realize that a blog isn&amp;rsquo;t terribly useful unless you have something useful to say. I can easily get the same relief by screaming any errant thoughts out my window, and almost anything could have been a better use of my money.</description>
