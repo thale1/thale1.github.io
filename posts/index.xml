@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on tomhale.me</title>
+    <link>https://www.tomhale.me/posts/</link>
+    <description>Recent content in Posts on tomhale.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 17 May 2020 10:11:12 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.tomhale.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello world!</title>
+      <link>https://www.tomhale.me/posts/my-first-post/</link>
+      <pubDate>Sun, 17 May 2020 10:11:12 -0400</pubDate>
+      
+      <guid>https://www.tomhale.me/posts/my-first-post/</guid>
+      <description>Hi! I&amp;rsquo;m starting a blog! See my About page for more about me.
+This started as a side project after I foolishly bought the tomhale.me domain name.
+Sadly, I didn&amp;rsquo;t realize that a blog isn&amp;rsquo;t terribly useful unless you have something useful to say. I can easily get the same relief by screaming any errant thoughts out my window, and almost anything could have been a better use of my money.</description>
+    </item>
+    
+  </channel>
+</rss>
