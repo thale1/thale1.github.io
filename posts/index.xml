@@ -5,10 +5,19 @@
     <link>https://tomhale.me/posts/</link>
     <description>Recent content in Posts on tomhale.me</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 17 May 2020 10:11:12 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2020 22:01:17 -0400</lastBuildDate>
     
 	<atom:link href="https://tomhale.me/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Alchemist</title>
+      <link>https://tomhale.me/posts/the-alchemist-thoughts/</link>
+      <pubDate>Fri, 22 May 2020 22:01:17 -0400</pubDate>
+      
+      <guid>https://tomhale.me/posts/the-alchemist-thoughts/</guid>
+      <description>About this time last year, as I was finishing college and thinking about entering the &amp;ldquo;real world,&amp;rdquo; I realized that I had nowhere to live. To make matters worse, my job was going to be in suburban Massachusetts, about forty-five minutes outside of Boston, and, therefore, about forty-five minutes from anyone I knew. A long commute was out of the question, which meant rooming with someone familiar was out of the question too.</description>
+    </item>
     
     <item>
       <title>Hello world!</title>
